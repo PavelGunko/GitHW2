@@ -1,6 +1,6 @@
 
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 .idea
 out
 *.xml
